@@ -1,6 +1,6 @@
-# day_2_ms
+# Total Expense
 
-A new Flutter project.
+A new Flutter project that note your expense every week.
 
 ## Getting Started
 
